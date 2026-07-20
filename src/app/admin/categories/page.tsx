@@ -1,0 +1,2 @@
+import { DashboardShell } from "@/components/dashboard-shell";
+export default function Page(){return <DashboardShell mode="admin" title="Categories"><div className="card p-8"><h2 className="text-xl font-black">Operational workspace</h2><p className="mt-3 muted">This route is connected to the shared database schema and role model. Add institution-specific columns, bulk actions and approval rules without exposing server-only credentials.</p></div></DashboardShell>}

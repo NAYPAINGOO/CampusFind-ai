@@ -1,0 +1,2 @@
+import { PageHero } from "@/components/page-hero"; import { SiteHeader } from "@/components/site-header"; import { SiteFooter } from "@/components/site-footer";
+export default function Privacy(){return <><SiteHeader/><main id="main-content"><PageHero title="Privacy notice" description="The platform collects only the information needed to match reports, verify ownership, communicate status and document secure handovers. Production deployments must adapt retention periods and legal wording to university policy and applicable law."/></main><SiteFooter/></>}

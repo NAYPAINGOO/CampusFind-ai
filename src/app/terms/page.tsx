@@ -1,0 +1,2 @@
+import { PageHero } from "@/components/page-hero"; import { SiteHeader } from "@/components/site-header"; import { SiteFooter } from "@/components/site-footer";
+export default function Terms(){return <><SiteHeader/><main id="main-content"><PageHero title="Terms of use" description="Users must submit accurate information, avoid fraudulent ownership claims, protect collection credentials and follow campus security instructions."/></main><SiteFooter/></>}

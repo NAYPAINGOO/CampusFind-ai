@@ -1,0 +1,2 @@
+import { ReportForm } from "@/components/report-form"; import { SiteHeader } from "@/components/site-header"; import { PageHero } from "@/components/page-hero";
+export default function LostReport(){return <><SiteHeader/><main id="main-content"><PageHero eyebrow="Lost item" title="Report a lost item" description="Provide accurate but privacy-conscious information. Keep ownership-only details in the private verification fields."/><section className="container-shell pb-16"><ReportForm defaultType="lost"/></section></main></>}

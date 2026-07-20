@@ -1,0 +1,2 @@
+import { SiteHeader } from "@/components/site-header";
+export default function Forgot(){return <><SiteHeader/><main id="main-content" className="container-shell py-16"><form className="card mx-auto max-w-md p-7"><h1 className="text-2xl font-black">Reset password</h1><p className="mt-2 text-sm muted">Enter your verified university email.</p><label className="mt-6 block"><span className="label">Email</span><input className="input" type="email"/></label><button className="btn-primary mt-5 w-full">Send reset link</button></form></main></>}

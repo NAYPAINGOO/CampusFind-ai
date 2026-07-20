@@ -1,0 +1,2 @@
+import { ReportForm } from "@/components/report-form"; import { SiteHeader } from "@/components/site-header"; import { PageHero } from "@/components/page-hero";
+export default function FoundReport(){return <><SiteHeader/><main id="main-content"><PageHero eyebrow="Found item" title="Report a found item" description="Avoid publishing hidden features or exact storage details. Security staff will manage safe custody information."/><section className="container-shell pb-16"><ReportForm defaultType="found"/></section></main></>}
