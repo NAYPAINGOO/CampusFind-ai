@@ -1,6 +1,22 @@
-# CampusFind AI
+<div align="center">
+  <h1>CampusFind AI</h1>
+  <h3>A Smarter Campus Lost-and-Found Experience</h3>
+  <p>Helping university communities report, discover, match, claim, and recover lost belongings.</p>
 
-A professional university lost-and-found platform built with Next.js, TypeScript, Tailwind CSS, Supabase and a FastAPI matching service.
+  ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
+  ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+  ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+</div>
+
+---
+
+## Overview
+
+CampusFind AI is a university lost-and-found platform built to make item reporting, searching, matching, and recovery more organized and accessible.
+
+Instead of relying entirely on traditional chat-based lost-and-found groups, CampusFind AI provides a structured platform with intelligent matching, notifications, claims, and administrative tools.
 
 ## What is included
 
